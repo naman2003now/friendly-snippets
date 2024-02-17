@@ -21,9 +21,8 @@
           "\twhile(t--)",
           "\t{",
               "\t\tsolve();",
-              "\t}",
-              "\treturn 0;",
-            "}",
+          "\t}",
+          "\treturn 0;",
       "}"
     ],
     "description": "Standard starter template for a tiny C++ program"
