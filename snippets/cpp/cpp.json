@@ -1,4 +1,33 @@
 {
+    "Compitative Programming Testcase Template": {
+    "prefix": "cpst",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "",
+      "#define ll long long",
+      "#define mod 1000000007",
+      "",
+      "using namespace std;",
+      "",
+      "void solve()",
+      "{",
+          "\t$2",
+      "}",
+      "",
+      "int main() {",
+          "\tios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);",
+          "\tll t;",
+          "cin>>t;",
+          "\twhile(t--)",
+          "\t{",
+              "\t\tsolve();",
+              "\t}",
+              "\treturn 0;",
+            "}",
+      "}"
+    ],
+    "description": "Standard starter template for a tiny C++ program"
+    },
     "Starter Template": {
     "prefix": "st",
     "body": [
